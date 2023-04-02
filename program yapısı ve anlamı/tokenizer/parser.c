@@ -1,0 +1,3 @@
+1- Veri bilimi dendiğinde geçmişteki ve şu andaki anlamsız verileri düzenleyip ve bu verileri anlamlı ve kullanılabilir hale getiren bir alandır.
+2-Evet güveniyorum. Yazılım bölümü öğrencisi olarak R dilinde ve Python dilinde veri bilimi alanında tecrübelerim bulunmaktadır
+3 Günümüz ve geleceğin en önemli sektörlerinden olan yazılım sektörünün en önemli alanı olan veri bilimi alanında kendimi geliştirmek ve sektörün önemli kişilerinden biri olmayı kişisel yeteneklerim doğrultusunda gerçekleştirmeyi hedefliyorum
